@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/demo-patterns.iml" filepath="$PROJECT_DIR$/.idea/demo-patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/visitor.iml" filepath="$PROJECT_DIR$/visitor.iml" />
     </modules>
   </component>
 </project>
